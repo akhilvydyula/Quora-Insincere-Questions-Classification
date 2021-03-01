@@ -1,5 +1,6 @@
 # Quora_Insincere_Questions
-Blog Post: 
+
+Blog Post: https://medium.com/@findsoulyourself/quora-insincere-question-classification-attention-model-with-lstm-ef6ad8d6e8fc
 
 # Problem Statement
 Detect toxic content to improve online conversations.
